@@ -50,6 +50,7 @@
 - https://github.com/UnaPibaGeek/ctfr (通过域名透明证书记录获取子域名)
 - https://github.com/caffix/amass (Go语言开发的子域名枚举工具)
 - https://github.com/Ice3man543/subfinder (继承于sublist3r项目的模块化体系结构，一个强劲的子域名枚举工具)
+- https://github.com/OWASP/Amass (OWASP Amass工具通过抓取数据源，递归强制攻击，爬行Web存档，置换/更改名称以及反向DNS扫描来获取子域名)
 
 #### 数据库类漏洞扫描器或爆破工具
 
